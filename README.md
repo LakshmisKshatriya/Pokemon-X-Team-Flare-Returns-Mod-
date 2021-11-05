@@ -14,12 +14,15 @@ level, pokemons, 6 pokemon for each of the Scientists (Aliana, Bryony, Celosia, 
 - Top Elite& Gym leader changes 
 - Enemy Mega evolutions occur more often
 - and more!
-- 
+
 Why did I create this Mod?
+-
 I didnt like that people kept saying that Team Flare is a bad team so I wanted to make them stronger! 
 
 How to Play?
+-
 You need to have FBI on your Nintendo 3ds or have the Citra Emu.
 
 Suggestions/Feedbacks
+-
 Suggestions and Feedbacks are welcome and appreciated.
