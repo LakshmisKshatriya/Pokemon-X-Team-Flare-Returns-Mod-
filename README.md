@@ -4,6 +4,7 @@ My Work in Progress Pokemon X Mod, which increases the difficulty and makes Team
 Mod Information
 -
 Mod Name : Pokemon X: The Return of Team Flare
+
 Mod Release Date: Probably this month or next month
 
 What does this Mod change?
