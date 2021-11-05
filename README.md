@@ -13,6 +13,7 @@ level, pokemons, 6 pokemon for each of the Scientists (Aliana, Bryony, Celosia, 
 - Wild Pokemon encounter changes
 - Top Elite& Gym leader changes 
 - Enemy Mega evolutions occur more often
+- Some pokemons from Y are also avaible in this version
 - and more!
 
 Why did I create this Mod?
