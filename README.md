@@ -10,11 +10,13 @@ Mod Release Date: Probably this month or next month
 What does this Mod change?
 - This mod changes the entire Team Flare these changes include:
 level, pokemons, 6 pokemon for each of the Scientists (Aliana, Bryony, Celosia, Mable, Xeros) and Lysandre.
-- pokemon stat changes
+- pokemon stat changes (Includes Level up skills and their abilities)
 - Wild Pokemon encounter changes
 - Top Elite& Gym leader changes 
 - Enemy Mega evolutions occur more often
-- Some pokemons from Y are also avaible in this version
+- All pokemons from Y are also avaible in this version
+- Trainer changes
+- Some Pokemons now have gems as items (Dark Gem, Ghost Gem etc.) according to their type. This basically means that you can farm those gems. If you dont know what they do: If you have a Pokemon witha Normal gem then his next Normal attack does more damage but the item goes away.
 - and more!
 
 Why did I create this Mod?
@@ -23,7 +25,7 @@ I didnt like that people kept saying that Team Flare is a bad team so I wanted t
 
 How to Play?
 -
-You need to have FBI on your Nintendo 3ds or have the Citra Emu.
+You need to have FBI on your Nintendo 3ds or have the Citra Emulator.
 
 Suggestions/Feedbacks
 -
