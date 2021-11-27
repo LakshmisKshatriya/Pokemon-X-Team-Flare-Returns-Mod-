@@ -27,7 +27,7 @@ Because I wanted to make this game more challenging especially Team Flare.
 
 How to Play?
 -
-You need to have Luma3ds on your 3ds and patch it.
+You need to have Luma3ds on your 3ds and patch Pokemon X.
 Steps:
 1. Go to your luma folder
 2. create a folder named titles if you dont have one
