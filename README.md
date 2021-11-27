@@ -1,27 +1,29 @@
 # Pokemon-X-Team-Flare-Returns-Mod-
-My Work in Progress Pokemon X Mod, which increases the difficulty and makes Team Flare a lot more Stronger!
+My Pokemon X Mod, which increases the difficulty and makes Every Trainer a lot more Stronger!
 
 Mod Information
 -
 Mod Name : Pokemon X: The Return of Team Flare
 
-Mod Release Date: Probably this month or next month
+Mod Release Date: 27.11.2021
 
 What does this Mod change?
 - This mod changes the entire Team Flare these changes include:
 level, pokemons, 6 pokemon for each of the Scientists (Aliana, Bryony, Celosia, Mable, Xeros) and Lysandre.
+- Most Trainers have better pokemons
+- Battle Chateau is more fun you can fight Team Flare members there+ Cynthia and more
 - pokemon stat changes (Includes Level up skills and their abilities)
 - Wild Pokemon encounter changes
 - Elite Four & Gym leader changes 
-- Enemy Mega evolutions occur more often
+- Enemy Mega evolutions occur more often (starting at Route 12 there will be always one trainer who uses Mega evolutions)
 - All pokemons from Pokemon Y are also avaible in this version
-- Trainer changes
-- Some Pokemons now have gems as items (Dark Gem, Ghost Gem etc.) according to their type. This basically means that you can farm those gems. If you dont know what they do: If you have a Pokemon with a Normal gem then his next Normal attack does more damage but the item goes away.
+- Some Pokemons now have gems as items (Dark Gem, Ghost Gem etc.) according to their type. This basically means that you can farm those gems. If you dont know what they do: If you have a Pokemon with a Normal gem then his next Normal attack does more damage.
+- Later in the game Serena hast two additional pkmns and Calem too *but* Serena uses different pkmns than Calem (only these two pkms)
 - and more!
 
 Why did I create this Mod?
 -
-I didnt like that people kept saying that Team Flare is a bad team so I wanted to make them stronger! 
+Because I wanted to make this game more challenging especially Team Flare.
 
 How to Play?
 -
