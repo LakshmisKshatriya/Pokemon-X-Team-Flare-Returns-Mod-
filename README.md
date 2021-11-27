@@ -30,11 +30,10 @@ How to Play?
 You need to have Luma3ds on your 3ds and patch Pokemon X.
 Steps:
 1. Go to your luma folder
-2. create a folder named titles if you dont have one
-3. create a folder named 0004000000055D00 if you dont have one.
-4. Put in the code.bin in the titles folder
-5. Put in the romfs folder
-6. Play the game
+2. put the rar file in the luma folder and extract it
+3. look if it looks clean and delete the rara file afterhand
+4. Put the SD card in your 3ds and if you dont have game patching enabled enable it through luma menu (power+select button)
+5. Play the game
 
 Suggestions/Feedbacks
 -
