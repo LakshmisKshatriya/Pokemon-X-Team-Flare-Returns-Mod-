@@ -36,7 +36,7 @@ You need to have Luma3ds on your 3ds and patch Pokemon X.
 Steps:
 1. Go to your luma folder
 2. put the rar file in the luma folder and extract it
-3. look if it looks clean and delete the rara file afterhand
+3. look if it looks clean and delete the rar. file afterwards
 4. Put the SD card in your 3ds and if you dont have game patching enabled enable it through luma menu (power+select button)
 5. Play the game
 
